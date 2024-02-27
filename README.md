@@ -4,11 +4,11 @@ This respository contains interactive quiz app, challenges you to answer compute
 
 ## Preview
 
-![screenshot]()
+![screenshot](https://github.com/gorusharma00/Quiz-App/assets/108645957/6b8038fb-c48c-45e4-a040-e45b20371a03)
 
 ## Live Demo
 
-[Click to try out the quiz app.]()
+[Click to try out the quiz app.](https://interactive-app-quiz.netlify.app/)
 
 ## Key Features
 
